@@ -1,0 +1,8 @@
+E:\Assisted\Assisted-Structs\Assisted-Structs\bin\Debug\Assisted-Structs.exe.config
+E:\Assisted\Assisted-Structs\Assisted-Structs\bin\Debug\Assisted-Structs.exe
+E:\Assisted\Assisted-Structs\Assisted-Structs\bin\Debug\Assisted-Structs.pdb
+E:\Assisted\Assisted-Structs\Assisted-Structs\obj\Debug\Assisted-Structs.csproj.AssemblyReference.cache
+E:\Assisted\Assisted-Structs\Assisted-Structs\obj\Debug\Assisted-Structs.csproj.SuggestedBindingRedirects.cache
+E:\Assisted\Assisted-Structs\Assisted-Structs\obj\Debug\Assisted-Structs.csproj.CoreCompileInputs.cache
+E:\Assisted\Assisted-Structs\Assisted-Structs\obj\Debug\Assisted-Structs.exe
+E:\Assisted\Assisted-Structs\Assisted-Structs\obj\Debug\Assisted-Structs.pdb
